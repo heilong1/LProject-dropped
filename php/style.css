@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(190, 242, 255);
+}
+
+.cont {
+  border: 1px solid green;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+p {
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
